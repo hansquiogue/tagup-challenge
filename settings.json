@@ -1,0 +1,8 @@
+{
+    "company_name": "ExampleCo, Inc",
+    "data": {
+        "type": "SQL",
+        "path": "exampleco_db.db"
+    },
+    "sensors": ["sensor0", "sensor1", "sensor2", "sensor3"]
+}
